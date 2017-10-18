@@ -4,7 +4,10 @@ html, body {
 
 nav {
   font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+}
+
+.navbar-default .navbar-nav >li >a {
+  color: #000;
 }
 
 .main {
